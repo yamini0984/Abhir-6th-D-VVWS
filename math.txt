@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aryabhatta information  </title>
+</head>
+<body>
+<p><b> Mathematician Aryabhata</b></br>
+ </p>
+<img src ="C:\Users\Admin\Desktop\FA4 project 6th\Aryabhatta-01.png" alt=" aryabhatta " width:100 ; height:50 ;">
+    <div class="border-container">
+        <h1> </h1>
+        </div>  
+
+<p>
+Aryabhata (476–550 CE) was one of the greatest mathematicians and astronomers of ancient India. </br>
+He made significant contributions to mathematics and science, and his works are highly regarded even today.</br>
+
+<p><b>Key Information About Aryabhata</b></br>
+<b>1. Early Life</b></br></br>
+Birth: Aryabhata was born in 476 CE in Kusumapura (modern-day Patna, Bihar, India).</br>
+Education: He is believed to have studied at Nalanda University, a prominent center of learning at the time.</br>
+</br>
+
+<b>2. Major Works</b></br></br>
+Aryabhata wrote several works, but his most famous is the Aryabhatiya, a comprehensive text on mathematics and astronomy, written in Sanskrit.</br>
+The Aryabhatiya consists of 121 verses divided into four sections:</br>
+Gitikapada - Large units of time, including planetary revolutions.</br>
+Ganitapada - Mathematical concepts and calculations.</br>
+Kalakriyapada - Calendrical calculations.</br>
+Golapada - Spherical astronomy.</br>
+
+
+<b>3. Contributions to Mathematics</b></br>
+Place Value System and Zero: Aryabhata used the concept of zero in his place value system, which was later refined in Indian mathematics.</br>
+Approximation of Pi (π): Aryabhata calculated the value of pi as </br>
+         𝜋 ≈ 3.1416</br>
+π≈3.1416, stating that it is an irrational number.</br>
+
+Trigonometry: He introduced trigonometric functions like sine, cosine, and their relationships.</br>
+Algebra: He solved quadratic equations and discussed indeterminate equations.</br>
+
+<b>4. Contributions to Astronomy</b></br>
+
+Aryabhata proposed that the Earth rotates on its axis, explaining the apparent movement of stars.</br>
+He accurately calculated the duration of a day as 23 hours, 56 minutes, and 4.1 seconds.</br>
+He explained lunar and solar eclipses scientifically, attributing them to the shadows cast by Earth and the Moon.</br>
+
+<b>5. Legacy</b></br>
+
+Aryabhata's contributions influenced later Indian mathematicians such as Brahmagupta and Bhaskara.</br>
+His works were translated into Arabic and influenced Islamic and European scholars.</br>
+India's first satellite, Aryabhata, launched in 1975, was named in his honor.</br>
+
+<b>Interesting Facts</b></br>
+
+Aryabhata referred to himself as a "Kusumapura resident," hinting at the city being a hub for learning.</br>
+He explained that the moon and planets shine because they reflect sunlight, an idea far ahead of his time.</br>
+His system of denoting large numbers was innovative, using Sanskrit letters to represent digits.</br>
+
+<b>Conclusion</b></br>
+
+Aryabhata’s groundbreaking contributions laid the foundation for many mathematical and astronomical concepts. </br>
+His works showcase the brilliance of ancient Indian science and continue to inspire mathematicians and scientists worldwide.</br>
+</p>
+</body>
+</html>
